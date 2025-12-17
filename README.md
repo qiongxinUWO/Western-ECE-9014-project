@@ -1,5 +1,4 @@
-# Western-ECE-9014-project
-# Instructions
+# Western-ECE-9014-project instructions
 1. Install dependencies: pip install + dependency name
 
   Dependency needed for this project:
